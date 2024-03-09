@@ -9,5 +9,5 @@ classes Item (Book et CD)
 ### Fonctionnement
 
 Pour imprimer tous les books, on parcourt la liste des Item et on fait visiter un BookPrinter : Les Books sont imprimés, 
-les CD ignorent le visiteur
+et les CD sont ignorés
 
